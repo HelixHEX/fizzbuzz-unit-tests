@@ -1,0 +1,14 @@
+{
+  "name": "fizz-buzz-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Make-School-Labs/fizz-buzz-test",
+  "author": "Elias <e.wambugu192@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
